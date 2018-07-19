@@ -11,7 +11,8 @@ Welcome to iBitcome's documentation!
    :glob:   
    
    home
-   summary    
+   summary
+   create2    
    create1
 
 
