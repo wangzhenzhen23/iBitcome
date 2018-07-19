@@ -14,7 +14,13 @@ Welcome to iBitcome's documentation!
    summary
    create
    create1    
-
+   create2
+   create3
+   create4
+   create5
+   create6
+   create7
+   create8
 
 Indices and tables
 ==================
