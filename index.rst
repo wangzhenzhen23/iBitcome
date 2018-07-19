@@ -10,7 +10,8 @@ Welcome to iBitcome's documentation!
    :maxdepth: 1
    :glob:   
    
-   home    
+   home
+   summary    
 
 
 
