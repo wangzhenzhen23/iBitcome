@@ -12,7 +12,8 @@ Welcome to iBitcome's documentation!
    
    home
    summary
-   create    
+   create
+   create1    
 
 
 Indices and tables
