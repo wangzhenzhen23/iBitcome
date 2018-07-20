@@ -1,9 +1,9 @@
 活动攻略
 ============
-安卓用户浏览器打开链接：
---------------------------
-ios用户浏览器打开链接：
---------------------------
+安卓用户浏览器打开链接：`https://share.ibitcome.com/placement/zh/official <https://share.ibitcome.com/placement/zh/official>`_
+--------------------------------------------------------------------------------------------------------------------------------------
+ios用户浏览器打开链接：`https://share.ibitcome.com/placement/zh/official <https://share.ibitcome.com/placement/zh/official>`_
+---------------------------------------------------------------------------------------------------------------------------------------
 
  .. image:: https://github.com/wangzhenzhen23/iBitcome/blob/master/_static/Chinese01.png?raw=true
  .. image:: https://github.com/wangzhenzhen23/iBitcome/blob/master/_static/Chinese02.png?raw=true
