@@ -1,4 +1,4 @@
-活动攻略：
+活动攻略
 ========
 安卓用户浏览器打开链接：
 ---------------------
@@ -66,24 +66,19 @@ ios用户浏览器打开链接：
 + 充值领取更多ETH
 点击“市场”板块任意一个币种，比如ZIL
 
-.. image:: 
-https://github.com/wangzhenzhen23/iBitcome/blob/master/_static/Chinese18.png?raw=true 
+.. image:: https://github.com/wangzhenzhen23/iBitcome/blob/master/_static/Chinese18.png?raw=true 
  
 在交易页面点击“买入”
 
-.. image::
-https://github.com/wangzhenzhen23/iBitcome/blob/master/_static/Chinese19.png?raw=true 
+.. image:: https://github.com/wangzhenzhen23/iBitcome/blob/master/_static/Chinese19.png?raw=true 
 
 点击右上角“充币”输入“授权密码”进行确认
 
-.. image::
-https://github.com/wangzhenzhen23/iBitcome/blob/master/_static/Chinese20.png?raw=true 
-.. image::
-https://github.com/wangzhenzhen23/iBitcome/blob/master/_static/Chinese21.png?raw=true 
+.. image:: https://github.com/wangzhenzhen23/iBitcome/blob/master/_static/Chinese20.png?raw=true 
+.. image:: https://github.com/wangzhenzhen23/iBitcome/blob/master/_static/Chinese21.png?raw=true 
  
 从钱包账户冲币到交易所账户达到0.5ETH即可领取大量ETH空投奖励啦～
 
-.. image::
-https://github.com/wangzhenzhen23/iBitcome/blob/master/_static/Chinese22.png?raw=true 
+.. image:: https://github.com/wangzhenzhen23/iBitcome/blob/master/_static/Chinese22.png?raw=true 
 
 
