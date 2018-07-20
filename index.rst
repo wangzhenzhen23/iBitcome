@@ -10,7 +10,6 @@ Welcome to iBitcome's documentation!
    :maxdepth: 1
    :glob:   
    
-   home
    summary
    create
    create1    
