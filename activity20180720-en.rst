@@ -1,9 +1,9 @@
 How to get free ETH ?
 =====================
 
-Go to this link and download in Android phone: 
+Go to this link and download in Android phone: `https://share.ibitcome.com/placement/en/official <https://share.ibitcome.com/placement/en/official>`_ 
 
-Go to this link and download in IOS phone: 
+Go to this link and download in IOS phone: `https://share.ibitcome.com/placement/en/official <https://share.ibitcome.com/placement/en/official>`_
 
 1.Sign up in H5
 ---------------
