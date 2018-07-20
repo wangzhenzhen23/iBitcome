@@ -30,7 +30,7 @@ Then go ahead and click *Create*
 
 .. image:: https://github.com/wangzhenzhen23/iBitcome/blob/master/_static/0104.png?raw=true
 
-**Alert:  Authorization password is very important. There is no way to retrieve if you lose i So please keep it well!**
+**Alert:  Authorization password is very important. There is no way to retrieve if you lose it So please keep it well!**
  
 2.Backup wallet mnemonic
 Backup Mnemonic following the instructions step by step:

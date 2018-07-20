@@ -1,4 +1,4 @@
-How to Import Wallet into iBitcome?
+How to import Wallet into iBitcome?
 ===================================
 
 Three import methods are provided in iBitcome: keystore import, mnemonic import, and private key import
