@@ -4,19 +4,39 @@ How to burn BCH to generate WHC in iBitcome?
 1）Click on “WHC” on the “Assets” to the asset details page.
 
 .. image:: https://github.com/wangzhenzhen23/iBitcome/blob/master/_static/e08010100.jpeg?raw=true
+   :width: 320px
+   :height: 569px
+   :scale: 100%
+   :align: center
 
 2) Click the orange button "Generate" on the page to start burning BCH and generate WHC;
 
 .. image:: https://github.com/wangzhenzhen23/iBitcome/blob/master/_static/e08010101.jpeg?raw=true
+   :width: 320px
+   :height: 569px
+   :scale: 100%
+   :align: center
 
 3) Select an address with sufficient balance from the BCH address. Then fill in the burning quantity and select the miner's fee you want to pay 
 
 .. image:: https://github.com/wangzhenzhen23/iBitcome/blob/master/_static/e08010102.jpeg?raw=true
+   :width: 320px
+   :height: 569px
+   :scale: 100%
+   :align: center
 .. image:: https://github.com/wangzhenzhen23/iBitcome/blob/master/_static/e08010103.jpeg?raw=true
+   :width: 320px
+   :height: 569px
+   :scale: 100%
+   :align: center
 
 4) Confirm the amount, address, miner's fee of the burning BCH in the "Transaction Details" pop-up window
 
 .. image:: https://github.com/wangzhenzhen23/iBitcome/blob/master/_static/e08010104.png?raw=true
+   :width: 320px
+   :height: 569px
+   :scale: 100%
+   :align: center
 
 5) After confirmation, the BCH starts to burn and generate the WHC at the same time
 
