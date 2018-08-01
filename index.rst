@@ -20,6 +20,8 @@ Welcome to iBitcome's documentation!
    create6
    create7
    create8
+   create9
+   create10
    activity20180720-zh
 
 Indices and tables
