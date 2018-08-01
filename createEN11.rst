@@ -4,14 +4,26 @@ How to view WHC generation progress and records in iBitcome?
 1）Click on “WHC” on the “Assets” to the asset details page.
 
 .. image:: https://github.com/wangzhenzhen23/iBitcome/blob/master/_static/e08010100.jpeg?raw=true
-
+   :width: 320px
+   :height: 569px
+   :scale: 100%
+   :align: center
 2) Click on "Generate History" on the page;
 
 .. image:: https://github.com/wangzhenzhen23/iBitcome/blob/master/_static/e08010201.jpeg?raw=true
+   :width: 320px
+   :height: 569px
+   :scale: 100%
+   :align: center
+
 
 3) you can view information such as the burned BCH and the generated WHC in the "Generate History"
 
 .. image:: https://github.com/wangzhenzhen23/iBitcome/blob/master/_static/e08010202.jpeg?raw=true
+   :width: 320px
+   :height: 569px
+   :scale: 100%
+   :align: center
 
 
 Note:
