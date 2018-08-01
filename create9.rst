@@ -25,9 +25,11 @@
 
 温馨提示：
 
-1.BCH燃烧，生成WHC是一个永远不可逆的过程，请您慎重操作；
+1.通过燃烧BCH生成WHC是一个不可逆的过程，请您慎重操作；
 
-2.选择BCH余额地址时请保证该地址中的余额大于将要燃烧的BCH和生成WHC所需矿工费；
+2.选择BCH地址时请保证该地址中的余额大于将要燃烧的BCH与生成WHC所需矿工费之和；
 
 3.1个BCH可以燃烧生成100个WHC。
 
+
+`视频操作演示 <https://v.youku.com/v_show/id_XMzc1NzEyNjg2MA==.html?x&sharefrom=android&sharekey=c2e182574f63f333159df7a5d05fc6bb5>`_

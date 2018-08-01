@@ -29,5 +29,5 @@
 2.1个BCH可以燃烧生成100个WHC。
 
 
-
+`视频操作演示 <https://v.youku.com/v_show/id_XMzc1NzEyNzY0NA==.html?x&sharefrom=android&sharekey=97692602a7febd57a09030f7b01153332>`_
 
