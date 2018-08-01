@@ -8,6 +8,7 @@ How to view WHC generation progress and records in iBitcome?
    :height: 569px
    :scale: 100%
    :align: center
+
 2) Click on "Generate History" on the page;
 
 .. image:: https://github.com/wangzhenzhen23/iBitcome/blob/master/_static/e08010201.jpeg?raw=true
