@@ -4,23 +4,47 @@
 1）在“资产”页面点击“WHC”进入资产详情页面；
 
 .. image:: https://github.com/wangzhenzhen23/iBitcome/blob/master/_static/08010100.jpeg?raw=true
+   :width: 320px
+   :height: 569px
+   :scale: 100%
+   :align: center
 
 2）点击页面上的橙色按钮“生成”，开始燃烧BCH，生成WHC；
 
 .. image:: https://github.com/wangzhenzhen23/iBitcome/blob/master/_static/08010101.png?raw=true
+   :width: 320px
+   :height: 569px
+   :scale: 100%
+   :align: center
 
 3）从BCH地址中选择有足够余额的地址，填写燃烧数量，并选择矿工费；
 
 .. image:: https://github.com/wangzhenzhen23/iBitcome/blob/master/_static/08010102.png?raw=true
+   :width: 320px
+   :height: 569px
+   :scale: 100%
+   :align: center
 .. image:: https://github.com/wangzhenzhen23/iBitcome/blob/master/_static/08010103.png?raw=true
+   :width: 320px
+   :height: 569px
+   :scale: 100%
+   :align: center
 
 4）在“交易明细”弹窗中确认燃烧BCH的金额、地址、矿工费等信息
 
 .. image:: https://github.com/wangzhenzhen23/iBitcome/blob/master/_static/08010104.png?raw=true
+   :width: 320px
+   :height: 569px
+   :scale: 100%
+   :align: center
 
 5）确认后，即开始燃烧BCH，同时生成WHC。
 
 .. image:: https://github.com/wangzhenzhen23/iBitcome/blob/master/_static/08010105.png?raw=true
+   :width: 320px
+   :height: 569px
+   :scale: 100%
+   :align: center
 
 
 温馨提示：
