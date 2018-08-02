@@ -53,7 +53,7 @@
 
 2.选择BCH地址时请保证该地址中的余额大于将要燃烧的BCH与生成WHC所需矿工费之和；
 
-3.1个BCH可以燃烧生成100个WHC。
+3.1个BCH可以燃烧生成100个WHC。燃烧过程需要经过1000个区块确认（完成时间约为1周）。
 
 
 `视频操作演示 <https://v.youku.com/v_show/id_XMzc1NzEyNjg2MA==.html?x&sharefrom=android&sharekey=c2e182574f63f333159df7a5d05fc6bb5>`_
