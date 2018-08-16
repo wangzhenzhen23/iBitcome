@@ -1,63 +1,132 @@
-How to make digital currency transaction?
-=========================================
+How to trade cryptocurrency on iBitcome?
+========================================================================================
 
-1.How to buy other digital currencies from ETH?
------------------------------------------------
+How to buy other tokens with ETH?
+-------------------------------------------------------------------
 
-+ For example, if you want to buy ZIL with ETH, you should find the 'Market' section and click ZIL in iBitcome wallet.
+1.For example, if you want to buy ZIL with ETH, you should find the “Market” section and click ZIL in iBitcome wallet
 
-.. image:: https://github.com/wangzhenzhen23/iBitcome/blob/master/_static/0901.png?raw=true
-.. image:: https://github.com/wangzhenzhen23/iBitcome/blob/master/_static/0902.png?raw=true
+.. image:: https://github.com/wangzhenzhen23/iBitcome/blob/en/_static/en08080901.JPG?raw=true
+   :width: 320px
+   :height: 569px
+   :scale: 100%
+   :align: center
 
-+ Click **Buy**, and enter the authorization password to confirm. Click **Buy** again. You will notice that the available ETH is 0.
+.. image:: https://github.com/wangzhenzhen23/iBitcome/blob/en/_static/en08080902.JPG?raw=true
+   :width: 320px
+   :height: 569px
+   :scale: 100%
+   :align: center
 
-.. image:: https://github.com/wangzhenzhen23/iBitcome/blob/master/_static/0903.png?raw=true
-.. image:: https://github.com/wangzhenzhen23/iBitcome/blob/master/_static/0904.png?raw=true
 
-+ Transfer ETH from the wallet to the trading market:   Click **Deposit** and set the amount of ETH transferred (4 choices provided by default in the wallet account balance: 4%, 50%, 75%, 100%). Click **confirm** and enter the authorization password. Then you will find ETH has been transferred from the wallet account to the exchange account.
+2.Click “↘Buy”, and enter the authorization password to confirm. Click “↘Buy” again. You will notice that the available ETH is 0.
 
-**Note: when depositing in the exchange from the decentralized iBitcome wallet, you need to pay unrated mining fees.**
+.. image:: https://github.com/wangzhenzhen23/iBitcome/blob/en/_static/en08080903.JPG?raw=true
+   :width: 320px
+   :height: 569px
+   :scale: 100%
+   :align: center
 
-.. image:: https://github.com/wangzhenzhen23/iBitcome/blob/master/_static/0905.png?raw=true
-.. image:: https://github.com/wangzhenzhen23/iBitcome/blob/master/_static/0906.png?raw=true
-.. image:: https://github.com/wangzhenzhen23/iBitcome/blob/master/_static/0907.png?raw=true
+.. image:: https://github.com/wangzhenzhen23/iBitcome/blob/en/_static/en08080904.JPG?raw=true
+   :width: 320px
+   :height: 569px
+   :scale: 100%
+   :align: center
 
-+ Take ZIL as an example, let's see how to buy other digital currencies from ETH. First of all, you need to set **price** /**Volume** /**Expire** for ordering. Once completed, enter authorization password and click confirm.
+3.Transfer ETH from the wallet to the trading market:
 
-**Note: Minimum 0.1 ETH when trading.**
+Click “Deposit” and set the amount of ETH  you will want to transfer (4 choices provided by default in the wallet account balance: 25%, 50%, 75%, 100%). Click “confirm” and enter the authorization password. After a short while you can check your ETH have been transferred to your exchange account 
 
-.. image:: https://github.com/wangzhenzhen23/iBitcome/blob/master/_static/0908.png?raw=true
-.. image:: https://github.com/wangzhenzhen23/iBitcome/blob/master/_static/0909.png?raw=true
-.. image:: https://github.com/wangzhenzhen23/iBitcome/blob/master/_static/0910.png?raw=true
+Note: When depositing ETH to your exchange account, there will be miner fees being incurred from the Ethereum nertwork. 
+"""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""
 
-+ Query history order: Click **Records** in the upper right to track your order history. And you also can find the relevant digital currency in the home page of **assets**.
+.. image:: https://github.com/wangzhenzhen23/iBitcome/blob/en/_static/en08080905.JPG?raw=true
+   :width: 320px
+   :height: 569px
+   :scale: 100%
+   :align: center
 
-.. image:: https://github.com/wangzhenzhen23/iBitcome/blob/master/_static/0911.png?raw=true
-.. image:: https://github.com/wangzhenzhen23/iBitcome/blob/master/_static/0912.png?raw=true
-.. image:: https://github.com/wangzhenzhen23/iBitcome/blob/master/_static/0913.png?raw=true
+.. image:: https://github.com/wangzhenzhen23/iBitcome/blob/en/_static/en08080906.JPG?raw=true
+   :width: 320px
+   :height: 569px
+   :scale: 100%
+   :align: center
 
-Congratulations! Succeed to buy ZIL with Ethereum (ETH).
+4.To see how to buy cryptocurrency with ETH, we will use YEE here as an example. First set the “price”, “amount”, “expiry date” before you set your order. Once complete, enter your authorization password and click confirm.
 
-2.How to sell other digital currencies for ETH?
------------------------------------------------
+.. image:: https://github.com/wangzhenzhen23/iBitcome/blob/en/_static/en08080907.JPG?raw=true
+   :width: 320px
+   :height: 569px
+   :scale: 100%
+   :align: center
 
-+ For example, if you want to sell ZIL, you should find the **Market** section and click ZIL in iBitcome wallet.
+.. image:: https://github.com/wangzhenzhen23/iBitcome/blob/en/_static/en08080908.JPG?raw=true
+   :width: 320px
+   :height: 569px
+   :scale: 100%
+   :align: center
 
-.. image:: https://github.com/wangzhenzhen23/iBitcome/blob/master/_static/0914.png?raw=true
-.. image:: https://github.com/wangzhenzhen23/iBitcome/blob/master/_static/0915.png?raw=true
+5.Query history order: Click "Records" in the upper right to track your order history.  You can also find other cryptocurrency under “assets”. 
 
-+ Click **Sell**, and enter the authorization password to confirm.
+.. image:: https://github.com/wangzhenzhen23/iBitcome/blob/en/_static/en08080909.JPG?raw=true
+   :width: 320px
+   :height: 569px
+   :scale: 100%
+   :align: center
 
-.. image:: https://github.com/wangzhenzhen23/iBitcome/blob/master/_static/0916.png?raw=true
+.. image:: https://github.com/wangzhenzhen23/iBitcome/blob/en/_static/en08080910.JPG?raw=true
+   :width: 320px
+   :height: 569px
+   :scale: 100%
+   :align: center
 
-+ Take ZIL as an example, let’s see how to sell digital currency . First , you need to set **price**/**Expire** for selling. Once completed, Enter authorization password and click confirm.
+How to sell tokens for ETH?
+-----------------------------------------------------------
 
-**Note: Minimum 0.1 ETH when trading.**
+1.For example, if you want to sell ZIL, you should find the “Market” section and click ZIL in iBitcome wallet
 
-.. image:: https://github.com/wangzhenzhen23/iBitcome/blob/master/_static/0917.png?raw=true
-.. image:: https://github.com/wangzhenzhen23/iBitcome/blob/master/_static/0918.png?raw=true
+.. image:: https://github.com/wangzhenzhen23/iBitcome/blob/en/_static/en08080911.JPG?raw=true
+   :width: 320px
+   :height: 569px
+   :scale: 100%
+   :align: center
 
-+ Query history order: Click **order history** in the upper right to track your order history. After the transaction is successful, ETH will be stored in the exchange account. And you can also choose to withdrawn it to your wallet account. 
+.. image:: https://github.com/wangzhenzhen23/iBitcome/blob/en/_static/en08080912.JPG?raw=true
+   :width: 320px
+   :height: 569px
+   :scale: 100%
+   :align: center
 
-.. image:: https://github.com/wangzhenzhen23/iBitcome/blob/master/_static/0919.png?raw=true
-.. image:: https://github.com/wangzhenzhen23/iBitcome/blob/master/_static/0920.png?raw=true
+2.Click “↖Sell”, and enter the authorization password to confirm.
+
+.. image:: https://github.com/wangzhenzhen23/iBitcome/blob/en/_static/en08080913.JPG?raw=true
+   :width: 320px
+   :height: 569px
+   :scale: 100%
+   :align: center
+
+3.To see how to buy cryptocurrency with ETH, we will use YEE here as an example. First set the “price”, “amount”, “expiry date” before you set your order. Once complete, enter your authorization password and click confirm.
+
+.. image:: https://github.com/wangzhenzhen23/iBitcome/blob/en/_static/en08080914.JPG?raw=true
+   :width: 320px
+   :height: 569px
+   :scale: 100%
+   :align: center
+
+4.Query history order: Click "order history" in the upper right to track your order history. After the transaction is successful, ETH will appear on your exchange account. You can also choose to withdraw it back to your iBitcome wallet
+
+.. image:: https://github.com/wangzhenzhen23/iBitcome/blob/en/_static/en08080915.JPG?raw=true
+   :width: 320px
+   :height: 569px
+   :scale: 100%
+   :align: center
+
+.. image:: https://github.com/wangzhenzhen23/iBitcome/blob/en/_static/en08080916.JPG?raw=true
+   :width: 320px
+   :height: 569px
+   :scale: 100%
+   :align: center
+
+
+
+

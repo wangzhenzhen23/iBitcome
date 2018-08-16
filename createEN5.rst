@@ -1,15 +1,26 @@
 How to add tokens in iBitcome?
-===============================
+=================================================
 
-+ Login iBitcome Wallet
+1.Click “Assets”
 
-.. image:: https://github.com/wangzhenzhen23/iBitcome/blob/master/_static/0501.png?raw=true
+.. image:: https://github.com/wangzhenzhen23/iBitcome/blob/en/_static/en08080501.JPG?raw=true
+   :width: 320px
+   :height: 569px
+   :scale: 100%
+   :align: center
 
-+ Click **Manage** on the **Assets** page if you want to find BTM, then activate it.
+2.Click “Manage”, add the tokens you would like to. 
 
+.. image:: https://github.com/wangzhenzhen23/iBitcome/blob/en/_static/en08080502.JPG?raw=true
+   :width: 320px
+   :height: 569px
+   :scale: 100%
+   :align: center
 
-.. image:: https://github.com/wangzhenzhen23/iBitcome/blob/master/_static/0502.png?raw=true
+3.When you come back to “Asset” you will see the tokens being shown on the home page.
 
-+ You can find the token in the **Asset** when backing to the home page
-
-.. image:: https://github.com/wangzhenzhen23/iBitcome/blob/master/_static/0503.png?raw=true
+.. image:: https://github.com/wangzhenzhen23/iBitcome/blob/en/_static/en08080503.JPG?raw=true
+   :width: 320px
+   :height: 569px
+   :scale: 100%
+   :align: center

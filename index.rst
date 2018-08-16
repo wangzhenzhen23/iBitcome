@@ -22,7 +22,6 @@ Welcome to iBitcome's documentation!
    createEN9
    createEN10
    createEN11
-   activity20180720-en
 
 
 
