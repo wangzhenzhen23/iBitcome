@@ -48,7 +48,7 @@ Backup  → enter authorization password → “Got it “→  Copy and save it 
 
 Alert: Mnemonics phrase is the most important way to recovering your wallet!  Lost of mnemonics phrase can lead to asset loss! Please be sure to keep it safe! ! !
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
-^
+
 4.Now you have successfully created your wallet
 
 .. image:: https://github.com/wangzhenzhen23/iBitcome/blob/en/_static/en08080206.JPG?raw=true
