@@ -20,8 +20,8 @@ Then go ahead and click “Create”
    :scale: 100%
    :align: center
 
-Alert:  Authorization password is very important. We cannot recover your password if you lose it. So please write it down and keep it in a secure place.
-^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+**Alert:  Authorization password is very important. We cannot recover your password if you lose it. So please write it down and keep it in a secure place.**
+
 
 3.Backup wallet mnemonic phrase
 
@@ -46,8 +46,8 @@ Backup  → enter authorization password → “Got it “→  Copy and save it 
    :scale: 100%
    :align: center
 
-Alert: Mnemonics phrase is the most important way to recovering your wallet!  Lost of mnemonics phrase can lead to asset loss! Please be sure to keep it safe! ! !
-^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+**Alert: Mnemonics phrase is the most important way to recovering your wallet!  Lost of mnemonics phrase can lead to asset loss! Please be sure to keep it safe! ! !**
+
 
 4.Now you have successfully created your wallet
 
