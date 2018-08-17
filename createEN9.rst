@@ -37,8 +37,7 @@ How to buy other tokens with ETH?
 
 Click “Deposit” and set the amount of ETH  you will want to transfer (4 choices provided by default in the wallet account balance: 25%, 50%, 75%, 100%). Click “confirm” and enter the authorization password. After a short while you can check your ETH have been transferred to your exchange account 
 
-Note: When depositing ETH to your exchange account, there will be miner fees being incurred from the Ethereum nertwork. 
-"""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""
+**Note: When depositing ETH to your exchange account, there will be miner fees being incurred from the Ethereum nertwork.** 
 
 .. image:: https://github.com/wangzhenzhen23/iBitcome/blob/en/_static/en08080905.JPG?raw=true
    :width: 320px
