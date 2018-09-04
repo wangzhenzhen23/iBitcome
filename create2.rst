@@ -3,7 +3,7 @@ IOS用户如何创建iBitcome钱包地址？
 
 **一、注册iBitcome钱包**
 
-1.IOS手机在浏览器打开网址：https://fir.im/z9ru
+1.IOS手机在浏览器打开网址：https://download.ibitcome.com
 
 2.点击“下载安装”在确认框中选择“安装”
 
