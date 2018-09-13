@@ -23,6 +23,7 @@ Welcome to iBitcome's documentation!
    create9
    create10
    create11
+   create12   
 
 Indices and tables
 ==================
