@@ -18,6 +18,7 @@
    :align: center
 
 3.确认兑换结果
+
 .. image:: https://github.com/wangzhenzhen23/iBitcome/blob/master/_static/cn09130103.jpg?raw=true
    :width: 320px
    :height: 569px
