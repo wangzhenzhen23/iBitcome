@@ -24,7 +24,6 @@ Welcome to iBitcome's documentation!
    createEN11
 
 
-
 Indices and tables
 ==================
 
