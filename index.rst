@@ -17,3 +17,4 @@ iBitcome使用文档
    Function/index
    Download/index
    Wallet/index
+   Transfer/index
