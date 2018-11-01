@@ -6,4 +6,4 @@
 
    downloadAndInstall
    backup
-
+   switch
