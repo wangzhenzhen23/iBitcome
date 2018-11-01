@@ -19,3 +19,4 @@ iBitcome使用文档
    Wallet/index
    Transfer/index
    Transaction/index
+   Gateway/index
