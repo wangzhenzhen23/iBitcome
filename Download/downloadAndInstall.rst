@@ -1,19 +1,19 @@
 3.1安全下载与安装
 ------------------
 
-1.通过官方网站 `https://www.ibitcome.com <https://www.ibitcome.com>`_ 的推荐方式下载正版iBitcome钱包
+1.通过官方网站 https://www.ibitcome.com 的推荐方式下载正版iBitcome钱包
 
 .. image:: ../_static/zh-CN2.0/cn2018200030101.png
-    :width: 320px
-    :height: 520px
+    :width: 1200px
+    :height: 1080px
     :scale: 100%
     :align: center
 
 2.登陆官方下载网址 `https://download.ibitcome.com <https://download.ibitcome.com>`_ 点击“立即体”或扫描二维码下载
 
 .. image:: ../_static/zh-CN2.0/cn2018200030102.png
-    :width: 320px
-    :height: 520px
+    :width: 800px
+    :height: 1000px
     :scale: 100%
     :align: center
 
