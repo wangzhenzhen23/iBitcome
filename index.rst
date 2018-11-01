@@ -18,3 +18,4 @@ iBitcome使用文档
    Download/index
    Wallet/index
    Transfer/index
+   Transaction/index
