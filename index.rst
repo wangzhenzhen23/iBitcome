@@ -16,4 +16,4 @@ iBitcome使用文档
    Introduction/index
    Function/index
    Download/index
-
+   Wallet/index
