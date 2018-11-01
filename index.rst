@@ -3,31 +3,17 @@
    You can adapt this file completely to your liking, but it should at least
    contain the root `toctree` directive.
 
-Welcome to iBitcome's documentation!
+iBitcome使用文档
 ====================================
 
 .. toctree::
-   :maxdepth: 1
-   :glob:   
-   
-   summary
-   create
-   create1    
-   create2
-   create3
-   create4
-   create5
-   create6
-   create7
-   create8
-   create9
-   create10
-   create11
-   create12   
+   :maxdepth: 2
+   :caption: 目录:
 
-Indices and tables
-==================
 
-* :ref:`genindex`
-* :ref:`modindex`
-* :ref:`search`
+
+
+   Introduction/index
+   Function/index
+   Download/index
+
