@@ -20,3 +20,4 @@ iBitcome使用文档
    Transfer/index
    Transaction/index
    Gateway/index
+   WbchTopic/index
