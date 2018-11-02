@@ -5,7 +5,7 @@
 
 .. image:: ../_static/zh-CN2.0/cn2018200080101.png
     :width: 320px
-    :height: 520px
+    :height: 675px
     :scale: 100%
     :align: center
 
@@ -13,7 +13,7 @@
 
 .. image:: ../_static/zh-CN2.0/cn2018200080102.png
     :width: 320px
-    :height: 520px
+    :height: 675px
     :scale: 100%
     :align: center
 
@@ -24,7 +24,7 @@
 
 .. image:: ../_static/zh-CN2.0/cn2018200080103.png
     :width: 320px
-    :height: 520px
+    :height: 675px
     :scale: 100%
     :align: center
 
