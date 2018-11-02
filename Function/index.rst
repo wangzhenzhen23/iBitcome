@@ -21,13 +21,13 @@
 
 .. image:: ../_static/zh-CN2.0/cn2018200020001.png
     :width: 320px
-    :height: 520px
+    :height: 675px
     :scale: 100%
     :align: center
 
 .. image:: ../_static/zh-CN2.0/cn2018200020002.png
     :width: 320px
-    :height: 520px
+    :height: 675px
     :scale: 100%
     :align: center
 
@@ -46,13 +46,13 @@ BCH燃烧 BCH燃烧生成WHC（详见“什么是虫洞WHC”）
 
 .. image:: ../_static/zh-CN2.0/cn2018200020003.png
     :width: 320px
-    :height: 520px
+    :height: 675px
     :scale: 100%
     :align: center
 
 .. image:: ../_static/zh-CN2.0/cn2018200020004.png
     :width: 320px
-    :height: 520px
+    :height: 675px
     :scale: 100%
     :align: center
 
@@ -66,7 +66,7 @@ BCH燃烧 BCH燃烧生成WHC（详见“什么是虫洞WHC”）
 
 .. image:: ../_static/zh-CN2.0/cn2018200020005.png
     :width: 320px
-    :height: 520px
+    :height: 675px
     :scale: 100%
     :align: center
 
@@ -82,7 +82,7 @@ DApp    资产、游戏、工具应用接入，丰富的移动应用场景
 
 .. image:: ../_static/zh-CN2.0/cn2018200020006.png
     :width: 320px
-    :height: 520px
+    :height: 675px
     :scale: 100%
     :align: center
 
@@ -102,6 +102,6 @@ DApp    资产、游戏、工具应用接入，丰富的移动应用场景
 
 .. image:: ../_static/zh-CN2.0/cn2018200020007.png
     :width: 320px
-    :height: 520px
+    :height: 675px
     :scale: 100%
     :align: center
