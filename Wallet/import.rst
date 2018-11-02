@@ -5,7 +5,7 @@
 
 .. image:: ../_static/zh-CN2.0/cn2018200040301.png
     :width: 320px
-    :height: 520px
+    :height: 675px
     :scale: 100%
     :align: center
 
@@ -13,7 +13,7 @@
 
 .. image:: ../_static/zh-CN2.0/cn2018200040302.png
     :width: 320px
-    :height: 520px
+    :height: 675px
     :scale: 100%
     :align: center
 
@@ -25,7 +25,7 @@ a.助记词
 
 .. image:: ../_static/zh-CN2.0/cn2018200040303.png
     :width: 320px
-    :height: 520px
+    :height: 675px
     :scale: 100%
     :align: center
 
@@ -35,7 +35,7 @@ b.Keystore
 
 .. image:: ../_static/zh-CN2.0/cn2018200040304.png
     :width: 320px
-    :height: 520px
+    :height: 675px
     :scale: 100%
     :align: center
 
@@ -45,7 +45,7 @@ c.明文私钥
 
 .. image:: ../_static/zh-CN2.0/cn2018200040304.png
     :width: 320px
-    :height: 520px
+    :height: 675px
     :scale: 100%
     :align: center
 
@@ -55,7 +55,7 @@ c.明文私钥
 
 .. image:: ../_static/zh-CN2.0/cn2018200040304.png
     :width: 320px
-    :height: 520px
+    :height: 675px
     :scale: 100%
     :align: center
 
@@ -63,7 +63,7 @@ c.明文私钥
 
 .. image:: ../_static/zh-CN2.0/cn2018200040304.png
     :width: 320px
-    :height: 520px
+    :height: 675px
     :scale: 100%
     :align: center
 
