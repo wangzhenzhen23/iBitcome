@@ -22,7 +22,7 @@
 
 .. image:: ../_static/zh-CN2.0/cn2018200030201.png
     :width: 320px
-    :height: 520px
+    :height: 675px
     :scale: 100%
     :align: center
 
@@ -30,7 +30,7 @@
 
 .. image:: ../_static/zh-CN2.0/cn2018200030202.png
     :width: 320px
-    :height: 520px
+    :height: 675px
     :scale: 100%
     :align: center
 
@@ -38,7 +38,7 @@
 
 .. image:: ../_static/zh-CN2.0/cn2018200030203.png
     :width: 320px
-    :height: 520px
+    :height: 675px
     :scale: 100%
     :align: center
 
@@ -46,6 +46,6 @@
 
 .. image:: ../_static/zh-CN2.0/cn2018200030204.png
     :width: 320px
-    :height: 520px
+    :height: 675px
     :scale: 100%
     :align: center

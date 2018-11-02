@@ -4,8 +4,8 @@
 1.通过官方网站 https://www.ibitcome.com 的推荐方式下载正版iBitcome钱包
 
 .. image:: ../_static/zh-CN2.0/cn2018200030101.png
-    :width: 1200px
-    :height: 1080px
+    :width: 800px
+    :height: 415px
     :scale: 100%
     :align: center
 
@@ -13,7 +13,7 @@
 
 .. image:: ../_static/zh-CN2.0/cn2018200030102.png
     :width: 800px
-    :height: 1000px
+    :height: 448px
     :scale: 100%
     :align: center
 
