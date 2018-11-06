@@ -1,4 +1,4 @@
-3. iBitcome钱包
+iBitcome钱包
 ========================
 
 .. toctree::

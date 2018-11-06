@@ -1,4 +1,4 @@
-1. iBitcome
+iBitcome
 =============
 
 ..  image:: ../_static/zh-CN2.0/Logo.png
