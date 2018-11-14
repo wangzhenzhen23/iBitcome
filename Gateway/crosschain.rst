@@ -7,7 +7,7 @@
 
 - 在市场把兑换的WBCH充值到交易所
 
-`（查看充值教程） <https://ibitcome.readthedocs.io/zh/latest/Transaction/rechargAndWithdraw.html>`_
+`（查看充值教程） <https://ibitcome.readthedocs.io/zh/latest/Transaction/rechargeAndWithdraw.html>`_
 
 - 通过交易获得以太坊Token
 
