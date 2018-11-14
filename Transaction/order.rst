@@ -25,3 +25,9 @@
     :scale: 100%
     :align: center
 
+
+.. image:: ../_static/zh-CN2.0/cn2018200060204.jpg
+    :width: 320px
+    :height: 675px
+    :scale: 100%
+    :align: center

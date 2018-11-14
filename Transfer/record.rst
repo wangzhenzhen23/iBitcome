@@ -17,9 +17,22 @@
     :scale: 100%
     :align: center
 
-选择转账、收款、兑换等查看分类记录
 
 .. image:: ../_static/zh-CN2.0/cn2018200050303.png
+    :width: 320px
+    :height: 675px
+    :scale: 100%
+    :align: center
+
+选择转账、收款、兑换等查看分类记录
+
+.. image:: ../_static/zh-CN2.0/cn2018200050304.png
+    :width: 320px
+    :height: 675px
+    :scale: 100%
+    :align: center
+
+.. image:: ../_static/zh-CN2.0/cn2018200050305.png
     :width: 320px
     :height: 675px
     :scale: 100%

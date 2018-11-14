@@ -1,7 +1,7 @@
 BCH兑换WBCH
 -------------------------
 
-- 在“资产”页面选择BCH进入操作界面
+- “资产”页面选择BCH进入操作界面
 
 .. image:: ../_static/zh-CN2.0/cn2018200070101.png
     :width: 320px
@@ -17,11 +17,17 @@ BCH兑换WBCH
     :scale: 100%
     :align: center
 
+.. image:: ../_static/zh-CN2.0/cn2018200070103.png
+    :width: 320px
+    :height: 675px
+    :scale: 100%
+    :align: center
+
 - 授权认证开始兑换
 
 - 兑换记录及进度可在交易记录中筛选查看
 
-.. image:: ../_static/zh-CN2.0/cn2018200070103.png
+.. image:: ../_static/zh-CN2.0/cn2018200070104.png
     :width: 320px
     :height: 675px
     :scale: 100%
@@ -29,10 +35,18 @@ BCH兑换WBCH
 
 - WBCH兑换BCH同理，可随时兑换兑回
 
-.. image:: ../_static/zh-CN2.0/cn2018200070104.png
+.. image:: ../_static/zh-CN2.0/cn2018200070105.png
     :width: 320px
     :height: 675px
     :scale: 100%
     :align: center
+
+
+.. image:: ../_static/zh-CN2.0/cn2018200070106.png
+    :width: 320px
+    :height: 675px
+    :scale: 100%
+    :align: center
+
 
 

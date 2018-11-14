@@ -17,11 +17,7 @@
     :scale: 100%
     :align: center
 
-- iBitcome支持三种方式导入
-
-a.助记词
-     
-输入助记词（用空格隔开）
+- 输入密码验证身份
 
 .. image:: ../_static/zh-CN2.0/cn2018200040303.png
     :width: 320px
@@ -29,11 +25,23 @@ a.助记词
     :scale: 100%
     :align: center
 
-b.Keystore
+- iBitcome支持三种方式导入
 
-粘贴/输入Keystore文件，输入原Keystore密码
+a.助记词
+     
+输入助记词（用空格隔开）
 
 .. image:: ../_static/zh-CN2.0/cn2018200040304.png
+    :width: 320px
+    :height: 675px
+    :scale: 100%
+    :align: center
+
+b.Keystore
+
+粘贴/输入（扫描）Keystore文件（二维码），输入原Keystore密码
+
+.. image:: ../_static/zh-CN2.0/cn2018200040305.png
     :width: 320px
     :height: 675px
     :scale: 100%
@@ -43,7 +51,7 @@ c.明文私钥
 
 粘贴/输入明文私钥
 
-.. image:: ../_static/zh-CN2.0/cn2018200040304.png
+.. image:: ../_static/zh-CN2.0/cn2018200040306.png
     :width: 320px
     :height: 675px
     :scale: 100%
@@ -53,15 +61,15 @@ c.明文私钥
 
 - 点击“导入钱包”
 
-.. image:: ../_static/zh-CN2.0/cn2018200040304.png
+.. image:: ../_static/zh-CN2.0/cn2018200040307.png
     :width: 320px
     :height: 675px
     :scale: 100%
     :align: center
 
-- 点击“查看钱包”，粘贴观察钱包的地址，完成导入
+- 点击“查看钱包”，粘贴（扫描）观察钱包的地址，完成导入
 
-.. image:: ../_static/zh-CN2.0/cn2018200040304.png
+.. image:: ../_static/zh-CN2.0/cn2018200040308.png
     :width: 320px
     :height: 675px
     :scale: 100%

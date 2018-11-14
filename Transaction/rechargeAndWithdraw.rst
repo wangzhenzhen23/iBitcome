@@ -17,7 +17,7 @@
     :scale: 100%
     :align: center
 
-- 选择币种
+- 选择币种，填写充值（提现）金额
 
 .. image:: ../_static/zh-CN2.0/cn2018200060103.png
     :width: 320px
@@ -35,4 +35,8 @@
     :scale: 100%
     :align: center
 
-
+.. image:: ../_static/zh-CN2.0/cn2018200060105.png
+    :width: 320px
+    :height: 675px
+    :scale: 100%
+    :align: center
