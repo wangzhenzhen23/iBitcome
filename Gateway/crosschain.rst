@@ -11,6 +11,6 @@
 
 - 通过交易获得以太坊Token
 
-`（查看交易所交易教程） <https://ibitcome.readthedocs.io/zh/latest/Transaction/index.html>`_
+`（查看交易所交易教程） <https://ibitcome.readthedocs.io/zh/latest/Transaction/order.html>`_
 
 - 至此便完成了BCH到以太坊的跨链交易

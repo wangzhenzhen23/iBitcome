@@ -42,7 +42,8 @@ iBitcome功能简述
 添加资产 一键搜索多币种，随心添加管理
 
 网关兑换 BCH与WBCH的实时兑换，详见跨链网关交易
-BCH燃烧 BCH燃烧生成WHC（详见“什么是虫洞WHC”）
+
+BCH燃烧生成WHC（`详见“什么是虫洞WHC“ <https://ibitcome.readthedocs.io/zh/latest/Gateway/crosschain.html>`_）
 
 .. image:: ../_static/zh-CN2.0/cn2018200020003.png
     :width: 320px

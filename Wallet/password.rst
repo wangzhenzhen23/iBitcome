@@ -15,7 +15,7 @@
 更改密码
 >>>>>>>>>>>>>>>
 
-在钱包首页点击“钱包管理功能键”
+“我的”页面点击“设置”进入钱包设置
 
 .. image:: ../_static/zh-CN2.0/cn2018200040102.png
     :width: 320px
@@ -23,15 +23,7 @@
     :scale: 100%
     :align: center
 
-点击“管理钱包”，选择需要更改密码的钱包
-
-.. image:: ../_static/zh-CN2.0/cn2018200040103.png
-    :width: 320px
-    :height: 675px
-    :scale: 100%
-    :align: center
-
-点击“修改密码”，即可对原密码进行修改
+点击“修改安全密码”，验证旧密码后设定新的密码
 
 .. image:: ../_static/zh-CN2.0/cn2018200040103.png
     :width: 320px
