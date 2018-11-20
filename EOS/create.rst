@@ -13,8 +13,8 @@ iBitcome钱包现阶段支持EOS账户的导入，如需创建新的EOS账户需
 - 在“资产”页点击“添加资产”，添加EOS
 
 .. image:: ../_static/zh-CN2.0/2018210090101.png
-    :width: 320px
-    :height: 520px
+    :width: 300px
+    :height: 500px
     :scale: 100%
     :align: center
 
