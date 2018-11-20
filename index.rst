@@ -21,3 +21,4 @@ iBitcome使用文档
    Transaction/index
    Gateway/index
    WbchTopic/index
+   EOS/index
