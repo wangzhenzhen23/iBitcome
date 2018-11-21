@@ -7,28 +7,17 @@ Welcome to iBitcome's documentation!
 ====================================
 
 .. toctree::
-   :maxdepth: 1
-   :glob:   
-   
-   createEN0
-   createEN1    
-   createEN2    
-   createEN3    
-   createEN4    
-   createEN5    
-   createEN6    
-   createEN7    
-   createEN8    
-   createEN9
-   createEN10
-   createEN11
-   createEN12
-   createEN13
+   :maxdepth: 2
+   :caption: 目录:
 
 
-Indices and tables
-==================
 
-* :ref:`genindex`
-* :ref:`modindex`
-* :ref:`search`
+
+   Introduction/index
+   Function/index
+   Download/index
+   Wallet/index
+   Transfer/index
+   Transaction/index
+   Gateway/index
+   WbchTopic/index
